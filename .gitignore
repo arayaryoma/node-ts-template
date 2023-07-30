@@ -1,0 +1,15 @@
+# For macos
+.DS_Store
+
+# logs
+*.log
+.pnpm-debug.log*
+
+# dependency entities
+node_modules
+
+# TypeScript build cache
+*.tsbuildinfo
+
+# secrets
+.env
